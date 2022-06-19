@@ -1,0 +1,33 @@
+_repo: Ma-conscience-en-robe-rose_68303
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chantepleure, G. (Guy)
+    aliases:
+    - Chantepleure, Guy
+    - Dussap, Jeanne Violet
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '33152'
+    url: http://www.gutenberg.org/2009/agents/33152
+    wikipedia: https://fr.wikipedia.org/wiki/Guy_Chantepleure
+description: ''
+gutenberg_issued: '2022-06-13'
+identifiers:
+  gutenberg: '68303'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=wu.89012499760
+pgterms:marc905: 20211211020939chantepleu
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: France :Calmann-Lévy,1901,pubdate 1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ma conscience en robe rose
+url: http://www.gutenberg.org/ebooks/68303
